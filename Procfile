@@ -1,1 +1,1 @@
-web: uvicorn app.flask-app:app
+web: uvicorn app.flask-app:app --host=$HOST --port=$PORT --reload
