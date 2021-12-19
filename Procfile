@@ -1,0 +1,1 @@
+web: uvicorn app.flask-app:app
