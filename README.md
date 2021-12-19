@@ -1,8 +1,6 @@
-## Run commands
+## Heroku API
 
-```bash
-uvicorn app.flask-app:app
-```
+``
 
 ## Test
 
@@ -13,4 +11,8 @@ uvicorn app.flask-app:app
 
 ## Results
 
+### FastAPI Docs:
+
 ![screenshot](screenshots/image1.jpeg)
+
+### Postman:
