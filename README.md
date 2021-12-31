@@ -1,6 +1,6 @@
-## Heroku API
+## Access Heroku API
 
-``
+`https://bmi-omdena-webapp.herokuapp.com/bmi`
 
 ## Test
 
@@ -16,3 +16,5 @@
 ![screenshot](screenshots/image1.jpeg)
 
 ### Postman:
+
+![screenshot2](screenshots/image2.jpeg)
