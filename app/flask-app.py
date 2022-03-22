@@ -1,6 +1,7 @@
-from fastapi import FastAPI
-from app.custom_function import bmi
 import uvicorn
+from fastapi import FastAPI
+
+from app.custom_function import bmi
 
 app = FastAPI()
 
